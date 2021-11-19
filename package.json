@@ -1,0 +1,22 @@
+{
+  "name": "omakoodi",
+  "version": "1.0.0",
+  "description": "oma",
+  "main": "kiinnostusscripti.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Friiia/Koulutyot.git"
+  },
+  "keywords": [
+    "oma"
+  ],
+  "author": "friiia",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/Friiia/Koulutyot/issues"
+  },
+  "homepage": "https://github.com/Friiia/Koulutyot#readme"
+}
