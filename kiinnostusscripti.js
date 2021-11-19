@@ -5,10 +5,10 @@ var kinostuksenTaso= document.getElementById("kiinnostuksen_taso").value;
 var luova =document.getElementById("luovuus").value;
 var tulos ="";
 
-if (kiinnostuksenTaso <= 10 && luova <= 10){
+if (kinostuksenTaso <= 10 && luova <= 10){
 tulos = "Pidä tauko";
 }
-else if (kiinnostuksenTaso <=5 && luova <=5){
+else if (kinostuksenTaso <=5 && luova <=5){
    tulos = "STOP!";
 }
 else {
@@ -16,5 +16,4 @@ else {
 
 }
 document.getElementById("tulostusAlue").innerHTML = tulos;
-
 }
